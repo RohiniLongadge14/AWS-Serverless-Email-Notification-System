@@ -8,10 +8,11 @@ which sends an email notification using Amazon SNS.
 ## Architecture
 S3 (File Upload) → Lambda (Trigger) → SNS (Email Notification)
 
-
-
-
-
+## AWS Services Used
+- Amazon S3 – Event source & storage
+- AWS Lambda – Serverless compute
+- Amazon SNS – Email notifications
+- IAM – Secure access control
 
 ## Features
 - Fully serverless architecture
