@@ -42,4 +42,4 @@ S3 (File Upload) → Lambda (Trigger) → SNS (Email Notification)
 This project runs under AWS Free Tier with zero cost.
 
 ## Author
-Rohini Longadge
+Rohini Anilrao Longadge
